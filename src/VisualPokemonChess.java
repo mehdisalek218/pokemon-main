@@ -9,6 +9,8 @@ import java.util.List;
 import javax.imageio.ImageIO;
 import MG2D.geometrie.Point;
 
+
+
 public class VisualPokemonChess {
     private List<Point> validMoves = new ArrayList<>();
     private static final int BOARD_SIZE = 9;
