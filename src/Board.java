@@ -2,8 +2,6 @@ import java.util.ArrayList;
 import java.util.List;
 import MG2D.geometrie.Point;
 
-
-
 public class Board {
     private Pokemon[][] grid;
     private int size;
